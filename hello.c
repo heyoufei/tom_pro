@@ -4,4 +4,4 @@ int main()
 	printf("Hello world");
 	return 0;
 }
-//hello.cpp hei&&&hei
+//hello.cpp hei and hei
